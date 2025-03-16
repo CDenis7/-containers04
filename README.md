@@ -157,6 +157,8 @@ Adăugați în fișierul Dockerfile următoarele linii:
 # Pornirea și testarea
 
 Recreați imaginea containerului cu numele apache2-php-mariadb și porniți containerul apache2-php-mariadb din imaginea apache2-php-mariadb. Verificați funcționarea site-ului WordPress.
+![image](https://github.com/user-attachments/assets/1c66d6a5-f78c-486d-a404-7cf04f456e81)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/726b08af-d6f6-4e0c-bede-3a94c50a5a22)
+
 
