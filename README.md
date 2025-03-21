@@ -197,4 +197,8 @@ Fără un mecanism automat de backup pentru baza de date.
 
 Necesită optimizări pentru performanță și securitate în producție.
 
+# Concluzii
+
+Această lucrare de laborator a demonstrat procesul de configurare a unui mediu Docker pentru rularea unui site WordPress. Am reușit să creăm și să configurăm un container cu Apache, PHP și MariaDB, să montăm volume pentru persistęnța datelor și să instalăm și configurăm WordPress. Deși implementarea funcționează, sunt necesare optimizări suplimentare pentru securitate și performanță în mediile de producție.
+
 
