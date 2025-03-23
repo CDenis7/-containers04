@@ -20,7 +20,7 @@ Am creat un depozit de cod sursă containers04 și l-am clonat pe computer.
 
 ![image](https://github.com/user-attachments/assets/2f05f3a4-5224-453b-857d-4b82f59402c5)
 
-extragerea fișierelor de configurare apache2, php, mariadb din container
+# Extragerea fișierelor de configurare apache2, php, mariadb din container
 
 Creaam în directorul containers04 un director files, precum și
 
